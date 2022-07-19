@@ -8,6 +8,7 @@ public class DemoclassTest {
 	public void Demo()
 	{
 		System.out.println("hello");
+		System.out.println("ho gaya");
 	}
 	@Test
 	public void Test()
@@ -24,5 +25,6 @@ public class DemoclassTest {
 		//good evening
 		
 	}
+	
 	
 }
