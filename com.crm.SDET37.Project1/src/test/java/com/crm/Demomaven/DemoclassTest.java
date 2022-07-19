@@ -17,6 +17,8 @@ public class DemoclassTest {
 		System.out.println("hiiii");
 		System.out.println("bye");
 		//good bye
+		System.out.println("naure");
+		
 		
 	}
 	
