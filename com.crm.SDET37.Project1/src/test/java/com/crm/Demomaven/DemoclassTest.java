@@ -14,6 +14,8 @@ public class DemoclassTest {
 	{
 		System.out.println("world");
 		System.out.println("hiiii");
+		System.out.println("bye");
+		
 	}
 	
 }
