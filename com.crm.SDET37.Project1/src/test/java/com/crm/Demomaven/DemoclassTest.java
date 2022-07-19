@@ -13,6 +13,7 @@ public class DemoclassTest {
 	public void Test()
 	{
 		System.out.println("world");
+		System.out.println("hiiii");
 	}
 	
 }
